@@ -36,8 +36,29 @@
   }
 }
 
-@media(max-height: 760px) {
+@media(min-height: 760px) {
   #page-home{
     background-position-y: 200px;
+  }
+
+}
+
+@media(max-width: 830px) {
+  #page-create-point .items-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #page-create-point .field-group{
+    flex-direction: column;
+  }
+
+  #page-create-point .field {
+    margin: 24px 0 0;
+  }
+}
+
+@media(max-width: 610px) {
+  #page-create-point .items-grid {
+    grid-template-columns: 1fr;
   }
 }

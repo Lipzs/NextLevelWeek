@@ -149,6 +149,11 @@ form button:hover{
   text-align: center;
 
   cursor: pointer;
+  transition: 400ms;
+}
+
+.items-grid li:hover{
+  transform: translateY(-7px);
 }
 
 .items-grid li span {
