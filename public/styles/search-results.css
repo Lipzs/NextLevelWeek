@@ -1,12 +1,17 @@
+body {
+  background-color: white;
+}
+
 body::after {
   content: "";
-  position: fixed;
-  top: 260px;
+  position: absolute;
+  top: 0px;
   left: 0;
   right: 0;
   bottom: 0;
+  height: 16rem;
   z-index: -1;
-  background-color: white;
+  background-color: #d2f5ec;
 }
 
 #page-search-results{
@@ -14,6 +19,15 @@ body::after {
   max-width: 1100px;
 
   margin: 0 auto;
+}
+
+#page-search-results .logo-group {
+  display: flex;
+  align-items: center;
+}
+
+#page-search-results .logo-group a {
+  margin-left: 16px;
 }
 
 #page-search-results header {

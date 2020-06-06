@@ -5,6 +5,15 @@
   background-position: 35vw bottom;
 }
 
+#page-home .logo-group {
+  display: flex;
+  align-items: center;
+}
+
+#page-home .logo-group a {
+  margin-left: 16px;
+}
+
 #page-home .content{
   display: flex;
   flex-direction: column;
