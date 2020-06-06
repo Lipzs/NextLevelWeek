@@ -73,14 +73,11 @@ O instrutor que nos guiou durante essa semana foi o [Mayk Brito](https://github.
 ---
 * Instale um editor de código (recomendo o VScode);
 * Tenha o [git bash](https://gitforwindows.org/) instalado no seu computador;
-* Execute o terminal do bash;
+* Execute o terminal (Por padrão Ctrl + Shift + ' no VScode);
+   *Ou é só ir em *terminal* no topo do VScode e clicar em *New Teminal*;
+* Entre no terminal do bash digitando `bash` no terminal;
 * Instale as ferramentas listadas [aqui](#ferramentas-utilizadas);
-* Mais especificamente as ferramentas desses comandos:
-   * `npm install`;
-   * `npm install express`;
-   * `npm install nunjucks`;
-   * `npm install sqlite3`;
-   * `npm install nodemon`;
+   * Com o código `npm install` no terminal bash você instala magicamente :sparkles: as dependências do projeto;
 * :warning: A pasta node_modules deve aparecer na raíz do projeto; :warning:
 * Depois é só executar o comando `npm start` no terminal;
 * Acesse no seu navegador o seguinte link: http://localhost:3000/index.html;
