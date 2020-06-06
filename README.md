@@ -16,8 +16,10 @@ Next Level Week #1 Starter - [Rocketseat :rocket:](https://rocketseat.com.br/)
 
 # Projeto Ecoleta - Trilha Starter
 
-O projeto desenvolvido foi o *Ecoleta*, um marketplace de locais de coleta de resíduos.
+O projeto desenvolvido foi um site chamado __*Ecoleta*__, onde será possível fazer a busca e o cadastro de locais para coleta de resíduos.
 O protótipo da ideia for disponibilizado online [aqui](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
+
+O instrutor que nos guiou durante essa semana foi o [Mayk Brito](https://github.com/maykbrito),  programador desde 2001 apaixonado por ensinar desenvolvimento web para iniciantes!
 
 # Ferramentas utilizadas
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -30,8 +32,8 @@ O protótipo da ideia for disponibilizado online [aqui](https://www.figma.com/fi
 * [SQLite3](https://www.sqlite.org/index.html)
 
 
-# Adições no projeto
-Idéias adicionadas ao projeto:
+# Idéias adicionadas ao projeto
+
 * Animações nas opções de materias para coleta. 
 * Alterações de responsividade das páginas.
 * Assinatura no cabeçalho das páginas.
@@ -40,8 +42,7 @@ Idéias adicionadas ao projeto:
 
 <h6 align="center">
 
-Criado por [@Rocketseat](https://github.com/Rocketseat)
-Desenvolvido por [@Lipsz](https://github.com/Lipzs)
+Criado por [@Rocketseat](https://rocketseat.com.br/) | Desenvolvido por [@Lipsz](https://github.com/Lipzs)
 <br/>
 
 
