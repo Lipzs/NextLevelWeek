@@ -39,7 +39,7 @@ Por estar na área de programação por apenas 6 meses o projeto que desenvolvi 
 O projeto desenvolvido foi um site chamado __*Ecoleta*__, onde será possível fazer a busca e o cadastro de locais para coleta de resíduos.
 O protótipo da ideia for disponibilizado online [AQUI](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 
-O instrutor que nos guiou durante essa semana foi o [Mayk Brito](https://github.com/maykbrito),  programador desde 2001 apaixonado por ensinar desenvolvimento web para iniciantes!
+O instrutor que nos guiou durante essa semana foi o [Mayk Brito](https://github.com/maykbrito),  programador a 12 anos apaixonado por ensinar desenvolvimento web para iniciantes!
 
 # Ferramentas utilizadas
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
