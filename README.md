@@ -37,7 +37,6 @@ Next Level Week #1 Starter - [Rocketseat :rocket:](https://rocketseat.com.br/)
 Por estar na área de programação por apenas 6 meses o projeto que desenvolvi foi o __Starter__, o resultado pode ser acessado por
 [AQUI](https://ecoletalipzs.herokuapp.com/).<br/>
 O projeto desenvolvido foi um site chamado __*Ecoleta*__, onde será possível fazer a busca e o cadastro de locais para coleta de resíduos.
-O protótipo da ideia for disponibilizado online [AQUI](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 
 O instrutor que nos guiou durante essa semana foi o [Mayk Brito](https://github.com/maykbrito),  programador a 12 anos apaixonado por ensinar desenvolvimento web para iniciantes!
 
