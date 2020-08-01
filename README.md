@@ -24,7 +24,7 @@ Feita para desenvolvedores com mais experiência,o projeto consiste em desenvolv
 
 <h1 align="center">
 
-![NLW Logo](https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg)
+![NLW Logo](./public/assets/nlwImage.svg)
 </br>
 Next Level Week #1 Starter - [Rocketseat :rocket:](https://rocketseat.com.br/)
 
